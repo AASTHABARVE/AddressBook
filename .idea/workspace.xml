@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a074094-8da1-4e91-987f-d591cff29e91" name="Changes" comment="UC1 Added">
-      <change beforePath="$PROJECT_DIR$/src/com/bl/addressbook/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/addressbook/AddressBookMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a074094-8da1-4e91-987f-d591cff29e91" name="Changes" comment="UC1 Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,6 +30,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3614f4e5-f826-4586-8929-8e55bfe60693" />
+        <option name="url" value="https://github.com/AASTHABARVE/AddressBook.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UC1 Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="UC1 Added" />
+    <MESSAGE value="UC2 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="UC2 Added" />
   </component>
 </project>
