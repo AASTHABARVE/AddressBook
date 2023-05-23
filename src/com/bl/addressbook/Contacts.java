@@ -60,7 +60,8 @@ public class Contacts {
             this.zipcode = zipcode;
         }
 
-        public double getPhoneNumber() {
+        public double getPhoneNumber()
+        {
             return phoneNumber;
         }
 
