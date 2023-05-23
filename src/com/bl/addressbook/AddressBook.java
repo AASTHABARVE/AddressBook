@@ -32,6 +32,7 @@ public class AddressBook {
             contact.setEmail(sc.next());
 
             contactArrayList.add(contact);
+
         }
 
 

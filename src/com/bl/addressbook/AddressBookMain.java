@@ -18,6 +18,7 @@ public class AddressBookMain {
 
             switch (Number) {
 
+
                 case 1:
                     addressBook.addContact();
                     break;
